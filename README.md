@@ -1,4 +1,4 @@
-#  Breaking Bad Fan Website 🧪
+#  Breaking Bad Fan Website V2 🧪
 
 My first static web development project, created as a university assignment for the Web Development module on the Computer Science degree course.
 
