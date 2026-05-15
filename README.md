@@ -2,8 +2,9 @@
 
 This project is an enhanced version of my first static website, originally developed as a university assignment for the Web Development module in my Computer Science degree.  
 
-
 ⚠️ Note: This project was developed for academic purposes and the content (page names and text) is written in Portuguese.
+
+---
 
 Name of the site: Breaking Bad Fan Website
 
@@ -34,6 +35,8 @@ A static fan website about the TV series Breaking Bad, covering its synopsis, ch
 - Awards and nominations overview 🏆
 
 - Easter Eggs 🥚
+
+---
 
 🖥️ **How to Run**
 
