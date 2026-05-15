@@ -13,11 +13,11 @@ A static fan website about the TV series Breaking Bad, covering its synopsis, ch
 
 📄 **Pages:**
 
-Main Page: Introduction and general overview of the series
+**Main Page:** Introduction and general overview of the series
 
-Characters: Profiles of the main characters, including Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, and Walter White Jr.
+**Characters:** Profiles of the main characters, including Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, and Walter White Jr.
 
-Awards: A summary of the show's major accolades, including 10 Primetime Emmy Awards and a total of 45 industry wins across 113 nominations
+**Awards:** A summary of the show's major accolades, including 10 Primetime Emmy Awards and a total of 45 industry wins across 113 nominations
 
 🛠️ **Tech Stack:**
 
@@ -44,7 +44,7 @@ No installation needed
 
 **Instructions:** 💾
 
-Download: Click on Code → Download ZIP
-Extract: Unzip the file BREAKING-BAD-WEBSITE-FINAL-main.zip
-Navigate to the project folder and open: Breaking Bad.html ← Double click here to open in your browser
-The site will open automatically in your default browser
+1. Download: Click on Code → Download ZIP
+2. Extract: Unzip the file BREAKING-BAD-WEBSITE-FINAL-main.zip
+3. Navigate to the project folder and open: Breaking Bad.html ← Double click here to open in your browser
+4. The site will open automatically in your default browser
