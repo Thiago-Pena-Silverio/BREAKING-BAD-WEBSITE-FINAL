@@ -6,7 +6,7 @@ This project is an enhanced version of my first static website, originally devel
 
 ---
 
-Name of the site: Breaking Bad Fan Website
+**Name of the site:** Breaking Bad Fan Website
 
 🎓 **Context:**
 
