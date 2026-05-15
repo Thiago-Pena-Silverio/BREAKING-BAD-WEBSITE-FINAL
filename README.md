@@ -2,7 +2,7 @@
 
 This project is an enhanced version of my first static website, originally developed as a university assignment for the Web Development module in my Computer Science degree.  
 
-> ⚠️ Note: This project was developed for academic purposes and the content (page names and text) is written in Portuguese.
+> ⚠️ **Note:** This project was developed for academic purposes and the content (page names and text) is written in Portuguese.
 
 ---
 
