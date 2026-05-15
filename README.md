@@ -7,11 +7,11 @@ This project is an enhanced version of my first static website, originally devel
 
 Name of the site: Breaking Bad Fan Website
 
-🎓 Context
+🎓 **Context:**
 
 A static fan website about the TV series Breaking Bad, covering its synopsis, characters, and awards. built using HTML, CSS and JavaScript. The goal was to practice basic web structure like, tables, buttons, indentation and multi-page navigation. This project reflects the very beginning of my journey into web development, now expanded with styling and interactivity to create a more engaging experience.
 
-📄 Pages:
+📄 **Pages:**
 
 Main Page: Introduction and general overview of the series
 
@@ -19,13 +19,13 @@ Characters: Profiles of the main characters, including Walter White, Jesse Pinkm
 
 Awards: A summary of the show's major accolades, including 10 Primetime Emmy Awards and a total of 45 industry wins across 113 nominations
 
-🛠️ Tech Stack:
+🛠️ **Tech Stack:**
 
 - HTML5 
 - CSS
 - JavaScript
   
-🎖️ Features:
+🎖️ **Features:**
 
 - Multi-page navigation 📋
 
@@ -35,13 +35,14 @@ Awards: A summary of the show's major accolades, including 10 Primetime Emmy Awa
 
 - Easter Eggs 🥚
 
-🖥️ How to Run
+🖥️ **How to Run**
 
-Requirements:
+**Requirements:**
 
 Any modern web browser (Chrome, Firefox, Edge, etc.)
 No installation needed
-Instructions: 💾
+
+**Instructions:** 💾
 
 Download: Click on Code → Download ZIP
 Extract: Unzip the file BREAKING-BAD-WEBSITE-FINAL-main.zip
