@@ -43,6 +43,7 @@ A static fan website about the TV series Breaking Bad, covering its synopsis, ch
 **Requirements:**
 
 Any modern web browser (Chrome, Firefox, Edge, etc.)
+
 No installation needed
 
 **Instructions:** 💾
