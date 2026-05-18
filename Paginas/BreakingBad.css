@@ -1,0 +1,42 @@
+
+body {
+    background-color: #001a00;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 15px; 
+    margin: auto
+}
+
+div.center {
+    text-align: center
+}
+
+div.right {
+    text-align: right;
+}
+
+div.left {
+    text-align: left
+}
+
+span.space10 {
+    display: inline-block;
+    width: 10px;
+}
+
+span.space50 {
+    display: inline-block;
+    width: 20px;
+}
+
+#meulink {
+    color: white;
+}
+
+#meulinkred {
+    color: red;
+}
+h3.elenco{
+    font-size: 22px 
+}
