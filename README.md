@@ -49,5 +49,5 @@ No installation needed
 
 1. Download: Click on Code → Download ZIP
 2. Extract: Unzip the file BREAKING-BAD-WEBSITE-FINAL-main.zip
-3. Navigate to the project folder and open: Breaking Bad.html ← Double click here to open in your browser
+3. Navigate to the project folder and open: index.html ← Double click here to open in your browser
 4. The site will open automatically in your default browser
