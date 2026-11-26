@@ -1,8 +1,8 @@
-#  Breaking Bad Fan Website V2 🧪
+# Breaking Bad Fan Website V2 🧪
 
 This project is an enhanced version of my first static website, originally developed as a university assignment for the Web Development module in my Computer Science degree.  
 
-> ⚠️ **Note:** This project was developed for academic purposes and the content (page names and text) is written in Portuguese.
+> ⚠️ **Note:** This project was developed for academic purposes and the page content is written in Portuguese.
 
 ---
 
@@ -10,7 +10,7 @@ This project is an enhanced version of my first static website, originally devel
 
 🎓 **Context:**
 
-A static fan website about the TV series Breaking Bad, covering its synopsis, characters, and awards. built using HTML, CSS, and JavaScript. The goal was to practice fundamental web structure such as tables, buttons, indentation and multi-page navigation. This project reflects the very beginning of my journey into web development, now expanded with styling and interactivity to create a more engaging experience.
+A static fan website about the TV series Breaking Bad, covering its synopsis, characters, and awards. It was built using HTML, CSS, and JavaScript. The goal was to practice fundamental web structure such as tables, buttons, indentation and multi-page navigation. This project reflects the very beginning of my journey into web development, now expanded with styling and interactivity to create a more engaging experience.
 
 📄 **Pages:**
 
@@ -50,5 +50,5 @@ No installation needed
 
 1. Download: Click on Code → Download ZIP
 2. Extract: Unzip the file BREAKING-BAD-WEBSITE-FINAL-main.zip
-3. Navigate to the project folder and open: index.html ← Double click here to open in your browser
+3. Navigate to the project folder and open: pages/index.html ← Double click here to open in your browser
 4. The site will open automatically in your default browser
