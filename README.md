@@ -1,4 +1,4 @@
-# Breaking Bad Fan Website V2 🧪
+# Breaking Bad Fan Website · Final Version
 
 This project is an enhanced version of my first static website, originally developed as a university assignment for the Web Development module in my Computer Science degree.  
 
@@ -6,27 +6,25 @@ This project is an enhanced version of my first static website, originally devel
 
 ---
 
-**Name of the site:** Breaking Bad Fan Website
-
-🎓 **Context:**
+## 🎓 Context
 
 A static fan website about the TV series Breaking Bad, covering its synopsis, characters, and awards. It was built using HTML, CSS, and JavaScript. The goal was to practice fundamental web structure such as tables, buttons, indentation and multi-page navigation. This project reflects the very beginning of my journey into web development, now expanded with styling and interactivity to create a more engaging experience.
 
-📄 **Pages:**
+## 📄 Pages
 
 **Main Page:** Introduction and general overview of the series
 
 **Characters:** Profiles of the main characters, including Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, and Walter White Jr.
 
-**Awards:** A summary of the show's major accolades, including 10 Primetime Emmy Awards and a total of 45 industry wins across 113 nominations
+**Awards:** A summary of the show's major accolades, including examples of wins and nominations across the series
 
-🛠️ **Tech Stack:**
+## 🛠️ Tech Stack
 
 - HTML5 
 - CSS
 - JavaScript
   
-🎖️ **Features:**
+## 🎖️ Features
 
 - Multi-page navigation 📋
 
@@ -38,7 +36,7 @@ A static fan website about the TV series Breaking Bad, covering its synopsis, ch
 
 ---
 
-🖥️ **How to Run**
+## 🖥️ How to Run
 
 **Requirements:**
 
@@ -52,3 +50,5 @@ No installation needed
 2. Extract: Unzip the file BREAKING-BAD-WEBSITE-FINAL-main.zip
 3. Navigate to the project folder and open: pages/index.html ← Double click here to open in your browser
 4. The site will open automatically in your default browser
+
+[Explore the first version](https://github.com/Thiago-Pena-Silverio/BREAKING-BAD-WEBSITE-V1).
